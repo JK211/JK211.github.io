@@ -42,6 +42,33 @@
     </entry>
     
     
+    
+    <entry>
+      <title>typora-vue-theme主题介绍</title>
+      <link href="/2018/09/07/demo/"/>
+      <url>/2018/09/07/demo/</url>
+      
+        <content type="html"><![CDATA[<p>@requires_authorization</p><p>def somefunc(param1=’’, param2=0):</p><p>‘’’A docstring’’’</p><p>if param1 &gt; param2: # interesting</p><p>print ‘Greater’</p><p>return (param2-param1+1) or None</p><p>Class SomeClass:</p><p>pass</p><blockquote><blockquote><blockquote><p>message = ‘’’interpreter</p></blockquote></blockquote></blockquote><p>… prompt’’’</p><p>graph TD</p><p>A[christmas] –&gt;B(Go shopping)</p><p>B –&gt; C{LEt me think}</p><p>C –&gt;|One| D[Laptop]</p><p>C –&gt;|Two| E[iPhone]</p><p>C –&gt;|Three|F[Car]</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Markdown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Typora </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
